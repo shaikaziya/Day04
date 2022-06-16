@@ -5,7 +5,7 @@ Ans:-
        console.log(JSON.stringify(obj1)==JSON.stringify(obj2));
        
 2) Use the rest countries API url -> https://restcountries.eu/rest/v2/all and display all the country flags in console?
-Ans:-
+Ans:-Refer    https://github.com/shaikaziya/Day04/blob/main/script.js
     
 
 
